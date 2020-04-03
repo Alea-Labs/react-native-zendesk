@@ -1,6 +1,6 @@
 {
   "name": "react-native-zendesk",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Zendesk SDK for React Native.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -20,10 +20,10 @@
     "android/**/*",
     "*.podspec"
   ],
-  "homepage": "https://github.com/dcvz/react-native-zendesk#readme",
+  "homepage": "https://github.com/Alea-Labs/react-native-zendesk#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcvz/react-native-zendesk.git"
+    "url": "git+https://github.com/Alea-Labs/react-native-zendesk.git"
   },
   "keywords": [
     "zendesk",
@@ -34,10 +34,10 @@
     "android",
     "support"
   ],
-  "author": "dcvz",
+  "author": "Alea-Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dcvz/react-native-zendesk/issues"
+    "url": "https://github.com/Alea-Labs/react-native-zendesk/issues"
   },
   "devDependencies": {
     "@types/react-native": "^0.60.0",

@@ -111,7 +111,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
-				ORGANIZATIONNAME = "David Chavez";
+				ORGANIZATIONNAME = "Alea Labs";
 				TargetAttributes = {
 					9BEDAFD9208E90CB000BFECF = {
 						CreatedOnToolsVersion = 9.3;
@@ -120,7 +120,7 @@
 				};
 			};
 			buildConfigurationList = 9BEDAFD5208E90CB000BFECF /* Build configuration list for PBXProject "RNZendesk" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 11.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (

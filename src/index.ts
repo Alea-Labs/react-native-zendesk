@@ -27,7 +27,7 @@ export function identifyAnonymous(name?: string, email?: string) {
 // MARK: - UI Methods
 
 interface HelpCenterOptions {
-  hideContactSupport?: boolean
+  showContactOptions?: boolean
 }
 
 export function showHelpCenter(options: HelpCenterOptions) {

@@ -1,4 +1,4 @@
-package io.dcvz.rnzendesk;
+package io.alealabs.rnzendesk;
 
 import android.content.Intent;
 import android.os.Build;
@@ -70,7 +70,7 @@ public class RNZendeskBridge extends ReactContextBaseJavaModule {
     public void showHelpCenter(ReadableMap options) {
 //        Boolean hideContact = options.getBoolean("hideContactUs") || false;
         UiConfig hcConfig = HelpCenterActivity.builder()
-                .withContactUsButtonVisible(!(options.hasKey("hideContactSupport") && options.getBoolean("hideContactSupport")))
+                .withContactUsButtonVisible(!(options.hasKey("showContactOptions") && options.getBoolean("showContactOptions")))
                 .config();
 
         Intent intent = HelpCenterActivity.builder()

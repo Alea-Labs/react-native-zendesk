@@ -1,5 +1,5 @@
 # react-native-zendesk
-React Native bridge to Zendesk Support SDK v2 on iOS and Android. 
+React Native bridge to Zendesk Support SDK v5 on iOS and Android. 
 
 ## Installation
 1. Add the package via yarn or npm
@@ -14,4 +14,4 @@ react-native link react-native-zendesk
 ```
 
 ## Getting Started
-API is very small and can be seen [here](https://github.com/dcvz/react-native-zendesk/blob/master/src/index.ts)
+API is very small and can be seen [here](https://github.com/Alea-Labs/react-native-zendesk/blob/master/src/index.ts)

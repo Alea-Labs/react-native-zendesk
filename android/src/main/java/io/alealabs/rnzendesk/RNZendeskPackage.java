@@ -1,4 +1,4 @@
-package io.dcvz.rnzendesk;
+package io.alealabs.rnzendesk;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

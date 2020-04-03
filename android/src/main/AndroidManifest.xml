@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.dcvz.rnzendesk">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.alealabs.rnzendesk">
   <application android:label="@string/app_name" android:supportsRtl="true">
   </application>
 </manifest>
